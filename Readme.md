@@ -9,8 +9,13 @@
 ---
 
 ## 2. Introducción
-Este proyecto tiene como objetivo demostrar la **creación, compilación y ejecución de un programa Java desde consola**, sin utilizar herramientas IDE.  
-El programa permite al usuario ingresar información de un vehículo y muestra todos los datos ingresados, cumpliendo con los requerimientos del caso de estudio de una distribuidora de alimentos.
+Dentro del Desarrollo de Aplicaciones Moviles, uno de los principales objetivos es adquirir las competencias necesarias para estructurar, organizar y documentar proyectos de software. En dicho contexto, se desarrolló una pequeña aplicación en java, cuyo propósito principal fue:
+•	La utilización de entrada de datos por consola
+•	El manejo de distintos tipos de variables.
+•	La correcta documentación del código mediante comentarios
+•	La integración del proyecto con la herramienta de control de versiones GitHub.
+
+Esto nos permite no solo reforzar la lógica de programación, si no también comprender la importancia de la documentación y la trazabilidad del proceso de desarrollo, competencias necesarias para el trabajo en proyectos de mayor envergadura en el ámbito de Desarrollo de Aplicaciones Móviles.
 
 ---
 
