@@ -9,15 +9,15 @@
 ---
 
 ## 2. Introducción
-Dentro del Desarrollo de Aplicaciones Moviles, uno de los principales objetivos es adquirir las competencias necesarias para estructurar, organizar y documentar proyectos de software. En dicho contexto, se desarrolló una pequeña aplicación en java, cuyo propósito principal fue:
+Dentro del Desarrollo de Aplicaciones Moviles, uno de los principales objetivos es adquirir las competencias necesarias para estructurar, organizar y documentar proyectos de software. En dicho contexto, se desarrolló una pequeña aplicación en java, cuyo propósito principal fue simular el registro y la visualización de los datos de un vehículo mediante consola. Durante el desarrollo, se consideró el análisis de caso de uso; se identificaron las necesidades de entrada de datos, los tipos de variables requeridos y la manera más clara de mostrar la información al usuario, asegurando que el programa cumpliera con su propósito funcional.
+
 *	La utilización de entrada de datos por consola
 *	El manejo de distintos tipos de variables.
 *	La correcta documentación del código mediante comentarios
 *	La integración del proyecto con la herramienta de control de versiones GitHub.
 
-Esto nos permite no solo reforzar la lógica de programación, si no también comprender la importancia de la documentación y la trazabilidad del proceso de desarrollo, competencias necesarias para el trabajo en proyectos de mayor envergadura en el ámbito de Desarrollo de Aplicaciones Móviles.
+Esto nos permite no solo reforzar la lógica de programación, si no también comprender la importancia de la documentación y la trazabilidad del proceso de desarrollo, y en análisis previo del caso, competencias necesarias para el trabajo en proyectos de mayor envergadura en el ámbito de Desarrollo de Aplicaciones Móviles.
 
----
 
 ## 3. Código Fuente con comentarios
 
